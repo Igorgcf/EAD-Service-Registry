@@ -68,3 +68,5 @@ When contributing to this project, please follow the existing code style, [commi
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, abra um problema ou envie uma solicitação pull ao repositório.
 
 Ao contribuir para este projeto, siga o estilo de código existente, [convenções de commit](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657), e envie suas alterações em uma branch separada.
+
+![spring](https://assets.bell-sw.com/www.bell-sw.com/static/a9a8fb19d3c82b0d5bc5aafccc38c163/712e1/migration-to-spring-boot.png)
