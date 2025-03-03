@@ -1,0 +1,14 @@
+server:
+  port: 8761
+
+Spring:
+  application:
+    name: ead-service-registry
+  output:
+    ansi:
+      enabled: Always
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
