@@ -69,4 +69,4 @@ Contribuições são bem-vindas! Se você encontrar algum problema ou tiver suge
 
 Ao contribuir para este projeto, siga o estilo de código existente, [convenções de commit](https://medium.com/linkapi-solutions/conventional-commits-pattern-3778d1a1e657), e envie suas alterações em uma branch separada.
 
-![spring](https://assets.bell-sw.com/www.bell-sw.com/static/a9a8fb19d3c82b0d5bc5aafccc38c163/712e1/migration-to-spring-boot.png)
+![spring](https://devloo.io/wp-content/uploads/2024/07/Spring-Boot-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B1%B1%EC%A0%95-%EC%97%86%EC%9D%B4-%EB%8C%80%EC%9A%A9%EB%9F%89-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0.webp)
