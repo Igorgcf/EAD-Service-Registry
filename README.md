@@ -1,9 +1,16 @@
 # Service Registry - Microservices
 
-Este repositório armazena um **Service Registry** utilizado para registrar e monitorar as instâncias de microservices em um ambiente distribuído. No momento, o Service Registry está monitorando dois microservices:
+Este repositório armazena um **Service Registry** utilizado para registrar e monitorar as instâncias de microservices em um ambiente distribuído. No momento, o Service Registry está monitorando quartro microservices:
 
+- **ead-api-gateway**: Atua como único ponto de entrada para a Arquitetura, roteando as requisições para os respectivos Microservices.
+  
+- **ead-config-server**: Age como um servidor de configuração, centralizando e gerenciando todas as propriedades e configurações de ambos os Microservices da arquitetura.
+  
 - **ead-authuser**: Responsável pela gestão de autenticação e usuários.
+  
 - **ead-course**: Responsável pela gestão de cursos na plataforma EAD.
+
+
 
 ## Tecnologias Utilizadas
 
