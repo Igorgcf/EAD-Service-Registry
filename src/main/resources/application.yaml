@@ -1,21 +1,5 @@
-server:
-  port: 8761
-
-Spring:
+spring:
+  profiles:
+    active: dev
   application:
     name: ead-service-registry
-  output:
-    ansi:
-      enabled: Always
-
-ead:
-  serviceRegistry:
-    username: ead-admin  #local/dev
-    password: ead-secret #local/dev
-
-eureka:
-  client:
-    registerWithEureka: false
-    fetchRegistry: false
-    service-url:
-      defaultZone: 'http://ead-admin:ead-secret@localhost:8761/eureka'
