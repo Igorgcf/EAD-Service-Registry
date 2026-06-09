@@ -66,6 +66,27 @@ Atualmente, os seguintes microservices estão configurados para registrar-se no 
 - Maven
 - IntelliJ IDEA
 
+---
+
+## Microservices da Arquitetura
+
+Para o funcionamento completo da arquitetura em ambiente local, todos os microservices do ecossistema devem estar em execução utilizando o profile ativo `dev`.
+
+Os microservices que compõem a arquitetura são:
+
+- [Authuser Microservice](https://github.com/Igorgcf/EAD-Authuser)
+- [Course Microservice](https://github.com/Igorgcf/EAD-Course)
+- [API Gateway](https://github.com/Igorgcf/EAD-API-Gateway)
+- [Service Discovery (Eureka Server)](https://github.com/Igorgcf/EAD-Service-Registry)
+- [Config Server](https://github.com/Igorgcf/EAD-Config-Server)
+- Execute [Notification Microservice](https://github.com/Igorgcf/EAD-Notification)
+  ou
+  [Notification-Hex Microservice](https://github.com/Igorgcf/EAD-Notification-Hexagonal)
+
+> ℹ️ Certifique-se de executar todos os serviços com o profile `dev` ativo para garantir a comunicação correta entre os microservices durante o desenvolvimento local.
+
+---
+
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request to the repository.
